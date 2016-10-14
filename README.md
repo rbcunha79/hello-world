@@ -3,4 +3,4 @@ Test project
 
 I'm testing github.
 
-New version.
+<b>New version.</b>
